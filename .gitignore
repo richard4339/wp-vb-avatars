@@ -1,5 +1,6 @@
 .htaccess
 wp-*.php
+!wp-vb-avatars.php
 xmlrpc.php
 wp-admin/
 wp-includes/
